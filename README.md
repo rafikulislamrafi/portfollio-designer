@@ -6,7 +6,7 @@ logo designer portfollio website design using html and css.
  
 figma design link:https://t.me/HayCoder/71 
 
-## 🔗 [Demo](https://rafikulislamrafi.github.io/portfollio-designer/)
+## 🔗 [Demo](https://rafikuldev.github.io/portfollio-designer/)
 
 # Hi, I'm Rafikul! 👋
 
